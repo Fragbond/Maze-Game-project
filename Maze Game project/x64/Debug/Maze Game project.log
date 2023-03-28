@@ -1,0 +1,55 @@
+﻿  AudioManager.cpp
+  Door.cpp
+D:\Projects\Maze Game project\Maze Game project\Door.cpp(18,41): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\Door.cpp(22,41): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+  Enemy.cpp
+D:\Projects\Maze Game project\Maze Game project\Enemy.cpp(26,21): warning C4310: cast truncates constant value
+  Exit.cpp
+  Game.cpp
+  GamePlayState.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\Level.h(29,36): warning C4310: cast truncates constant value
+D:\Projects\Maze Game project\Maze Game project\GamePlayState.cpp(144,10): warning C4189: 'isGameDone': local variable is initialized but not referenced
+D:\Projects\Maze Game project\Maze Game project\GamePlayState.cpp(272,50): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\GamePlayState.cpp(273,50): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\GamePlayState.cpp(280,50): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\GamePlayState.cpp(318,35): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+  HighScoreState.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\HighScoreState.cpp(19,7): warning C4189: 'input': local variable is initialized but not referenced
+  Key.cpp
+D:\Projects\Maze Game project\Maze Game project\Key.cpp(9,40): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+  Lava.cpp
+D:\Projects\Maze Game project\Maze Game project\Lava.cpp(15,40): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\Lava.cpp(16,40): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+  Level.cpp
+D:\Projects\Maze Game project\Maze Game project\Level.h(29,36): warning C4310: cast truncates constant value
+D:\Projects\Maze Game project\Maze Game project\Level.cpp(95,59): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\Level.cpp(96,59): warning C4244: '=': conversion from 'int' to 'SHORT', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\Level.cpp(244,26): warning C4189: 'anyWarning': local variable is initialized but not referenced
+  LoseState.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\LoseState.cpp(18,7): warning C4189: 'input': local variable is initialized but not referenced
+  MainMenu.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+  Maze Game project.cpp
+  Money.cpp
+  PlacableActor.cpp
+  Player.cpp
+  SettingState.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+  StateMachineExampleGame.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\Level.h(29,36): warning C4310: cast truncates constant value
+  Teleporter.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\Level.h(29,36): warning C4310: cast truncates constant value
+D:\Projects\Maze Game project\Maze Game project\Teleporter.cpp(10,40): warning C4244: 'argument': conversion from 'int' to 'WORD', possible loss of data
+D:\Projects\Maze Game project\Maze Game project\Teleporter.cpp(16,83): warning C4100: 'target': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\Teleporter.cpp(16,59): warning C4100: 'newPlayerY': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\Teleporter.cpp(16,43): warning C4100: 'newPlayerX': unreferenced formal parameter
+  WinState.cpp
+D:\Projects\Maze Game project\Maze Game project\GameState.h(9,27): warning C4100: 'prossInput': unreferenced formal parameter
+D:\Projects\Maze Game project\Maze Game project\WinState.cpp(18,7): warning C4189: 'input': local variable is initialized but not referenced
+  Generating Code...
+  Maze Game project.vcxproj -> D:\Projects\Maze Game project\x64\Debug\Maze Game project.exe

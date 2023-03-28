@@ -1,0 +1,8 @@
+﻿  Level editor.cpp
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(10,34): warning C4309: 'initializing': truncation of constant value
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(11,33): warning C4309: 'initializing': truncation of constant value
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(12,37): warning C4309: 'initializing': truncation of constant value
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(13,36): warning C4309: 'initializing': truncation of constant value
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(14,36): warning C4309: 'initializing': truncation of constant value
+D:\Projects\Maze Game project\Level editor\Level editor.cpp(15,34): warning C4309: 'initializing': truncation of constant value
+  Level editor.vcxproj -> D:\Projects\Maze Game project\x64\Debug\Level editor.exe
